@@ -1,0 +1,6 @@
+[submodule "back"]
+	path = back
+	url = git@github.com:Lavertis/doms-back.git
+[submodule "front"]
+	path = front
+	url = git@github.com:Lavertis/doms-front.git
